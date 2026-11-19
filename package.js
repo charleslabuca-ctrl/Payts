@@ -1,1 +1,8 @@
-
+{
+  "name": "Payts",
+  "version": "1.0.0",
+  "main": "index",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
