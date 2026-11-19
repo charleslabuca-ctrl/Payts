@@ -1,8 +1,13 @@
+
 {
-  "name": "midnight-cinema-roulette",
+  "name": "color-rush-railway",
   "version": "1.0.0",
+  "description": "A color matching browser game",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
